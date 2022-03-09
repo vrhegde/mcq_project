@@ -3,5 +3,13 @@ Making a publicly usable database of common english words with their synonyms, a
 MCQs that can be used for educational purposes in schools.
 
 
-Current status:
-Two csv files in place. I will use these to programatically compare lists to find common words and thus reduce the need for manual cleanup.
+Current status march 8th ish:
+
+Two CSV files in the folder.
+The main file has columns for questions, answers related words and unrelated words.
+
+The second CSV files has both synomyms and antonyms. I have used the synonyms  in creating the main CSV file. I will modify this file to get just the antomyms.
+
+
+To do: Create an antomyms csv file.
+
